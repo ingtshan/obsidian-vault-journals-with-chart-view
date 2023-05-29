@@ -1,0 +1,5 @@
+{
+  "format": "YYYY/[W]ww/YYYY-MM-DD",
+  "folder": "Journals",
+  "template": "Templates/daily"
+}

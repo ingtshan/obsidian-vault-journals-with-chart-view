@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "977c9ffe9ec61ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f8383706d64b85a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "695b1d118cc31c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72577fa7a1343113",
+    "type": "split",
+    "children": [
+      {
+        "id": "23698ce87753a979",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42667beed2bbac46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3639197bdfad85b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81866da3be567a15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7c3fe6fd4877932",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1779f3ef5185b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda4db4716a69546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e45201328fb9694",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2adfd9cecd11017e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2392d9ca489fcc83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "fb746aa2bf72b50d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "42667beed2bbac46",
+  "lastOpenFiles": [
+    "Journals/2023/OKR Heathy Life @2023.md",
+    "Journals/2023/W22/2023-W22.md",
+    "Templates/weekly.md",
+    "Journals/2023/W21/2023-W21.md",
+    "README.md",
+    "Imgs/PastedImg2.png",
+    "Imgs/PastedImg1.png",
+    "Imgs",
+    "Templates/daily.md",
+    "Journals/2023/W21/2023-05-28.md",
+    "Journals/2023/W22/2023-05-29.md",
+    "Journals/2023/W21/2023-05-26.md",
+    "Journals/2023/W21/2023-05-27.md",
+    "Journals/2023/W21",
+    "Utils/Views/SleepTracker/view.js",
+    "Utils/Views/SleepTracker",
+    "Utils/Views/LineChartWithMargin/view.js",
+    "Utils/Views/LineChartWithMargin",
+    "Utils/test/SleepTracker/view.js",
+    "Utils/test/LineChartWithMargin/view.js",
+    "Utils/test/LineChart/view.js",
+    "Utils/test/SleepTracker"
+  ]
+}
